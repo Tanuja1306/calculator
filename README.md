@@ -1,1 +1,1 @@
-# calculator
+Calculator with basic functionalities like normal arithmetic operations, cancel button and operation on numeric operands and playing around it. Still trying my luck with JavaScript, hope to inshallah complete it before next month. 
